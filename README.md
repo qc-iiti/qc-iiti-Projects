@@ -5,7 +5,7 @@ It is meant as a showcase of our work and a hub for exploring the techniques, to
 
 ## Want to submit?
 #### 1. Fork the repo
-#### 2. Add a new markdown file name:
+#### 2. Add a new markdown file in the `./projects.` folder named:
 ```php-template
 <projectName>-<projectLeadName>.md
 ```
@@ -14,7 +14,7 @@ Example: `grover-JaneDoe.md`
 
 Example:
 ```md
-# Grover's Algorithm Using Pennylane
+# Grover's Algorithm Using Qiskit
 Repo Link: [Click Here!](https://NEVERGONNAGIVEYOU.UP)
 ---
 We simulated Grover's algorithm using Qiskit and the Aer Backend.
