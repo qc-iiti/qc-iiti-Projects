@@ -1,55 +1,53 @@
-🛡️ Post-Quantum Secure Blockchain (PQCChain)
+# 🛡️ Post-Quantum Secure Blockchain (PQCChain)
 
-Repo Link: Click Me!
+**Repo Link:** [Click Me!](https://github.com/metamyteee/IITISoC-PQCChain)
 
-Post-Quantum Secure Blockchain (PQCChain) is a prototype blockchain system that integrates CRYSTALS-Dilithium, a lattice-based digital signature scheme, to secure blockchain wallets and transactions against quantum attacks. By replacing traditional ECDSA with Dilithium, the system demonstrates how blockchain infrastructure can be made resilient to future quantum computing threats.
+Post-Quantum Secure Blockchain (PQCChain) is a prototype blockchain system that integrates **CRYSTALS-Dilithium**, a lattice-based digital signature scheme, to secure blockchain wallets and transactions against quantum attacks. By replacing traditional ECDSA with Dilithium, the system demonstrates how blockchain infrastructure can be made resilient to future quantum computing threats.  
 
-This repository provides an implementation and simulation of a quantum-resistant blockchain in Python, along with wallet management, transaction signing, block mining, and a frontend interface for interaction.
+This repository provides an implementation and simulation of a **quantum-resistant blockchain** in Python, along with wallet management, transaction signing, block mining, and a frontend interface for interaction.
 
-Key Principles
+---
 
-Post-Quantum Cryptography (PQC):
-Uses lattice-based signatures standardized by NIST to resist attacks from quantum computers.
+## Key Principles  
 
-CRYSTALS-Dilithium:
-A quantum-safe digital signature scheme based on module lattices, designed for efficiency, security, and resilience.
+- **Post-Quantum Cryptography (PQC):**  
+  Uses lattice-based signatures standardized by NIST to resist attacks from quantum computers.  
 
-Blockchain Security:
-Integrates Dilithium into wallet creation, transaction signing, and block validation.
+- **CRYSTALS-Dilithium:**  
+  A quantum-safe digital signature scheme based on module lattices, designed for efficiency, security, and resilience.  
 
-Research-Oriented Prototype:
-Demonstrates how next-generation blockchains can evolve to counter quantum threats.
+- **Blockchain Security:**  
+  Integrates Dilithium into wallet creation, transaction signing, and block validation.  
 
-Features
+- **Research-Oriented Prototype:**  
+  Demonstrates how next-generation blockchains can evolve to counter quantum threats.  
 
-Post-Quantum Wallets secured with Dilithium
+---
 
-Transaction Signing & Verification using PQC
+## Features  
 
-Block Mining and Validation via custom blockchain layer
+- **Post-Quantum Wallets** secured with Dilithium  
+- **Transaction Signing & Verification** using PQC  
+- **Block Mining and Validation** via custom blockchain layer  
+- **Frontend React UI** for wallet management and blockchain interaction  
+- **Flask Backend** handling Dilithium integration and blockchain logic  
+- **Educational & Research Tool** for exploring quantum-safe blockchain design  
 
-Frontend React UI for wallet management and blockchain interaction
+---
 
-Flask Backend handling Dilithium integration and blockchain logic
+## Technologies Used  
 
-Educational & Research Tool for exploring quantum-safe blockchain design
+- **Post-Quantum Cryptography:** CRYSTALS-Dilithium (PQCrypto library)  
+- **Backend:** Python, Flask  
+- **Frontend:** React.js, Axios, Framer Motion  
+- **Blockchain Layer:** Custom Python implementation  
+- **Others:** Node.js, npm, NumPy  
 
-Technologies Used
+---
 
-Post-Quantum Cryptography: CRYSTALS-Dilithium (PQCrypto library)
+## Authored by  
 
-Backend: Python, Flask
-
-Frontend: React.js, Axios, Framer Motion
-
-Blockchain Layer: Custom Python implementation
-
-Others: Node.js, npm, NumPy
-
-Authored by
-
-[Name Placeholder 1]
-
-[Name Placeholder 2]
-
-[Name Placeholder 3]
+- [Aarush](https://github.com/metamyteee), BTech EP, IIT Indore, Class of 2028  
+- [V Hemal](https://github.com/Hemal2510), BTech EP, IIT Indore, Class of 2028  
+- [siddha Nema](https://github.com/SiddhaNema), BTech EE, IIT Indore, Class of 2028  
+- [Abhiroop Gohar](https://github.com/stark-069), BTech EP, IIT Indore, Class of 2028  
