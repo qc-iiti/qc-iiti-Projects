@@ -5,11 +5,11 @@ It is meant as a showcase of our work and a hub for exploring the techniques, to
 
 ## Want to submit?
 #### 1. Fork the repo
-#### 2. Add a new markdown file in the `./projects.` folder named:
+#### 2. Add a new markdown file in the `./projects/<year>/.` folder named:
 ```php-template
-<projectName>-<projectLeadName>.md
+<projectName>.md
 ```
-Example: `grover-JaneDoe.md`
+Example: `grover.md`
 #### 2. In your file, include a link to your repository, a brief description of the project and tools used, and the main contributors of your team.
 
 Example:
