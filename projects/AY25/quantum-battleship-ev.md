@@ -1,5 +1,6 @@
-# Quantum Battleship Using the Elitzur–Vaidman Interaction-Free Measurement Protocol  
-**Repo Link:** Click Me(https://github.com/Hemal2510/IISC-HACATHON)
+## Quantum Battleship Using the Elitzur–Vaidman Interaction-Free Measurement Protocol  
+**Repo Link:** [Click Me](https://github.com/<your-username>/<your-repo-name>)
+
 
 A quantum–mechanical framework for interaction-free ship detection in a Battleship-style environment using the **Elitzur–Vaidman (EV) protocol** and IBM Quantum systems. This project demonstrates counterfactual measurement — extracting information about hidden ships *without directly interacting* with them — by leveraging quantum interference collapse as a detection mechanism.
 
